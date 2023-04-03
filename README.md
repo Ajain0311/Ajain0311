@@ -16,7 +16,8 @@
 
 - 🤝 I’m looking for help with **developers**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, python,DBMS, html and css
+**
 
 - 📫 How to reach me **adityajain8875389629@gmail.com**
 
