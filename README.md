@@ -10,14 +10,14 @@
 <img width="400" align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 
-- 🔭 I’m currently working on **Research paper**
+- 🔭 I’m currently working on **Android development**
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **flutter technology**
 
 - 🤝 I’m looking for help with **developers**
 
 - 💬 Ask me about **C, C++, python,DBMS, html and css
-**
+, java and dart**
 
 - 📫 How to reach me **adityajain8875389629@gmail.com**
 
