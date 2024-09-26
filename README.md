@@ -1,4 +1,3 @@
-![MetaHead]
 <h1 align="center">Hii 👋, I'm ADITYA JAIN</h1>
 <h3 align="center">In a field of Software Engineering</h3>
 
