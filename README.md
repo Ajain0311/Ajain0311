@@ -9,14 +9,14 @@
 <img width="400" align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 
-- 🔭 I’m currently working on **Android development**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **flutter technology**
+- 🌱 I’m currently learning **Springboot technology**
 
 - 🤝 I’m looking for help with **developers**
 
-- 💬 Ask me about **C, C++, python,DBMS, html and css
-, java and dart**
+- 💬 Ask me about **C, C++, Java,DBMS, html and css
+, javascript and python**
 
 - 📫 How to reach me **adityajain8875389629@gmail.com**
 
