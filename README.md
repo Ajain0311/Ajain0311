@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/aditya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aditya_jain_311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aditya_jain_311" height="30" width="40" /></a>
 <a href="https://fb.com/aditya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya jain" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_jain_311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_jain_311" height="30" width="40" /></a>
+<a href="https://instagram.com/ad_jain311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_jain_311" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityajain887531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityajain887531" height="30" width="40" /></a>
 </p>
 
