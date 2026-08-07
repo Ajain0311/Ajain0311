@@ -147,7 +147,7 @@ open to  : Collaborations · Open Source · High-Performance Engineering
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajain0311&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=1f6feb&point=388bfd" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajain0311&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=1f6feb&point=388bfd&v=20260807" width="95%" />
 </div>
 
 ---
