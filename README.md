@@ -119,6 +119,10 @@ open to  : Collaborations · Open Source · High-Performance Engineering
 
 ## 📊 GitHub Analytics & Streak
 
+<div align="right">
+  <a href="https://github.com/Ajain0311/Ajain0311" title="Refresh Profile Stats"><img src="https://img.shields.io/badge/%F0%9F%94%84_Refresh_Stats-0D1117?style=flat-square&logo=github&logoColor=58A6FF" /></a>
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ajain0311&v=20260807&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
