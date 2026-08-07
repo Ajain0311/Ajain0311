@@ -121,12 +121,12 @@ open to  : Collaborations · Open Source · High-Performance Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajain0311&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Ajain0311&theme=github-dark-blue&hide_border=true&stroke=1f6feb&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ajain0311&v=20260807&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Ajain0311&v=20260807&theme=github-dark-blue&hide_border=true&stroke=1f6feb&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajain0311&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajain0311&v=20260807&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
 
 </div>
 
