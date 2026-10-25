@@ -91,14 +91,16 @@ open to  : Collaborations · Open Source · Interesting Problems
 
 ---
 
-## 🧪 Personal Projects
+## 💼 Client & Featured Projects
 
 <div align="center">
 
 | Project | Tech | About |
 |---|---|---|
-| **RedisCache-UI** | HTML · CSS · JS · Redis | Browser-based Redis key manager — inspect, search & delete cache keys without CLI |
-| **Track__onMe** | Node.js · GPS · WiFi | GPS & WiFi attendance system with offline queue sync & to-do management |
+| **[SuperApp_V2](https://github.com/Ajain0311/SuperApp_V2)** | React Native · Expo · ASP.NET Core | Multi-module consumer platform for food ordering, ride booking & marketplace with real-time GPS & push notifications |
+| **[Autonomous AI Software Engineer](https://github.com/Ajain0311/autonomous-ai-engineer)** | React · TypeScript · FastAPI · Gemini AI · SQLite | Self-driving AI agent pipeline that plans, codes, tests, and deploys micro-SaaS apps with daily GitHub commits |
+| **[RedisCache-UI](https://github.com/Ajain0311/RedisCache-UI)** | HTML · CSS · JS · Redis | Browser-based Redis key manager — inspect, search & delete cache keys without CLI |
+| **[Track__onMe](https://github.com/Ajain0311/Track__onMe)** | Node.js · GPS · WiFi | GPS & WiFi attendance system with offline queue sync & to-do management |
 
 </div>
 
